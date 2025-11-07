@@ -29381,5 +29381,19 @@
                 "new_value": "4198107"
             }
         ]
+    },
+    {
+        "timestamp": "2025-11-07T03:47:05.800888+00:00Z",
+        "changes": [
+            {
+                "team": "LoserBoy",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.LoserBoy.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            }
+        ]
     }
 ]
