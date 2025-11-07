@@ -46,8 +46,8 @@
   },
   {
     "Explorer Name": "Multichain Explorer",
-    "URL": "https://validatorinfo.com/",
-    "Available": "no",
+    "URL": "https://validatorinfo.com/networks/namada/overview",
+    "Available": "yes",
     "Image URL": "https://namada.community/IMG/validatorinfo.png",
     "Short Description": "A multichain POW and POS explorer",
     "Team or Contributor Name": "Citizen Web3",
