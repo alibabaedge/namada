@@ -65634,5 +65634,19 @@
                 "new_value": "101.1.4"
             }
         ]
+    },
+    {
+        "timestamp": "2025-11-08T17:12:22.599565+00:00Z",
+        "changes": [
+            {
+                "team": "shield-crypto",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.shield-crypto.service.rpc.namada_version",
+                "type": "modified",
+                "old_value": "101.1.1",
+                "new_value": "101.1.4"
+            }
+        ]
     }
 ]
