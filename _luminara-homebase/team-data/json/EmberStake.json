@@ -25698,5 +25698,62 @@
                 "new_value": "4250656"
             }
         ]
+    },
+    {
+        "timestamp": "2025-11-11T10:45:23.531528+00:00Z",
+        "changes": [
+            {
+                "team": "EmberStake",
+                "service": null,
+                "field": "0",
+                "full_path": "namada.operator.EmberStake.networks.0.interface.12.settings.0",
+                "type": "removed",
+                "old_value": {
+                    "service": "indexer",
+                    "url": "https://namada-idx.emberstake.xyz",
+                    "status": "up",
+                    "version": "4.1.0",
+                    "is_up_to_date": true,
+                    "latest_block_height": "4251152",
+                    "sync_state": "sync_ok"
+                },
+                "new_value": null
+            },
+            {
+                "team": "EmberStake",
+                "service": null,
+                "field": "1",
+                "full_path": "namada.operator.EmberStake.networks.0.interface.12.settings.1",
+                "type": "removed",
+                "old_value": {
+                    "service": "masp",
+                    "url": "https://namada-masp-idx.emberstake.xyz",
+                    "status": "up",
+                    "version": "1.4.7",
+                    "is_up_to_date": true,
+                    "latest_block_height": "4251136",
+                    "sync_state": "sync_ok"
+                },
+                "new_value": null
+            },
+            {
+                "team": "EmberStake",
+                "service": null,
+                "field": "2",
+                "full_path": "namada.operator.EmberStake.networks.0.interface.12.settings.2",
+                "type": "removed",
+                "old_value": {
+                    "service": "rpc",
+                    "url": "https://namada-rpc.emberstake.xyz",
+                    "status": "up",
+                    "version": "0.37.16",
+                    "is_up_to_date": false,
+                    "namada_version": "101.1.1",
+                    "latest_block_height": "4251152",
+                    "sync_state": "sync_ok"
+                },
+                "new_value": null
+            }
+        ]
     }
 ]
