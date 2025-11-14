@@ -33329,5 +33329,28 @@
                 "new_value": "4287046"
             }
         ]
+    },
+    {
+        "timestamp": "2025-11-14T08:20:42.788275+00:00Z",
+        "changes": [
+            {
+                "team": "LoserBoy",
+                "service": "masp",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.LoserBoy.service.masp.latest_block_height",
+                "type": "modified",
+                "old_value": "4287251",
+                "new_value": "4287288"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.LoserBoy.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            }
+        ]
     }
 ]
