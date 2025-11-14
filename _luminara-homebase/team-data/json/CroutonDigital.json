@@ -24179,7 +24179,11 @@
         ]
     },
     {
+<<<<<<< Updated upstream
         "timestamp": "2025-11-14T07:15:35.099712+00:00Z",
+=======
+        "timestamp": "2025-11-14T07:37:56.870880+00:00Z",
+>>>>>>> Stashed changes
         "changes": [
             {
                 "team": "CroutonDigital",
@@ -24187,6 +24191,7 @@
                 "field": "sync_state",
                 "full_path": "namada.operator.CroutonDigital.service.masp.sync_state",
                 "type": "modified",
+<<<<<<< Updated upstream
                 "old_value": "sync_lag",
                 "new_value": "sync_ok"
             },
@@ -24198,6 +24203,10 @@
                 "type": "modified",
                 "old_value": "4286734",
                 "new_value": "4287046"
+=======
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+>>>>>>> Stashed changes
             }
         ]
     }
