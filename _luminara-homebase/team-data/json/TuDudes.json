@@ -354,5 +354,19 @@
                 "new_value": "4300714"
             }
         ]
+    },
+    {
+        "timestamp": "2025-11-15T10:39:31.792417+00:00Z",
+        "changes": [
+            {
+                "team": "TuDudes",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.TuDudes.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_nok"
+            }
+        ]
     }
 ]
