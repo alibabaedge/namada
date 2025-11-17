@@ -30357,5 +30357,19 @@
                 "new_value": "sync_nok"
             }
         ]
+    },
+    {
+        "timestamp": "2025-11-17T09:24:59.201089+00:00Z",
+        "changes": [
+            {
+                "team": "Palamar",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.Palamar.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_lag"
+            }
+        ]
     }
 ]
