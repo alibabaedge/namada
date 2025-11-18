@@ -2351,5 +2351,46 @@
                 "new_value": "4338678"
             }
         ]
+    },
+    {
+        "timestamp": "2025-11-18T12:35:00.690170+00:00Z",
+        "changes": [
+            {
+                "team": "OriginStake",
+                "service": "rpc",
+                "field": "status",
+                "full_path": "namada.operator.OriginStake.service.rpc.status",
+                "type": "modified",
+                "old_value": "up",
+                "new_value": "down"
+            },
+            {
+                "team": "OriginStake",
+                "service": "rpc",
+                "field": "version",
+                "full_path": "namada.operator.OriginStake.service.rpc.version",
+                "type": "modified",
+                "old_value": "0.37.16",
+                "new_value": "n/a"
+            },
+            {
+                "team": "OriginStake",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.OriginStake.service.rpc.namada_version",
+                "type": "modified",
+                "old_value": "101.1.1",
+                "new_value": "n/a"
+            },
+            {
+                "team": "OriginStake",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.OriginStake.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            }
+        ]
     }
 ]

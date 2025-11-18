@@ -2567,5 +2567,19 @@
                 "new_value": "4338678"
             }
         ]
+    },
+    {
+        "timestamp": "2025-11-18T12:35:00.690170+00:00Z",
+        "changes": [
+            {
+                "team": "shield-crypto",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.shield-crypto.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            }
+        ]
     }
 ]
