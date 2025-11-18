@@ -30964,5 +30964,62 @@
                 "new_value": "n/a"
             }
         ]
+    },
+    {
+        "timestamp": "2025-11-18T13:31:35.061683+00:00Z",
+        "changes": [
+            {
+                "team": "Citizen Web3",
+                "service": null,
+                "field": "0",
+                "full_path": "namada.operator.Citizen Web3.networks.0.interface.9.settings.0",
+                "type": "removed",
+                "old_value": {
+                    "service": "indexer",
+                    "url": "https://indexer.namada.citizenweb3.com",
+                    "status": "up",
+                    "version": "4.1.0",
+                    "is_up_to_date": true,
+                    "latest_block_height": "4339366",
+                    "sync_state": "sync_ok"
+                },
+                "new_value": null
+            },
+            {
+                "team": "Citizen Web3",
+                "service": null,
+                "field": "1",
+                "full_path": "namada.operator.Citizen Web3.networks.0.interface.9.settings.1",
+                "type": "removed",
+                "old_value": {
+                    "service": "masp",
+                    "url": "https://masp-indexer.namada.citizenweb3.com",
+                    "status": "up",
+                    "version": "1.4.7",
+                    "is_up_to_date": true,
+                    "latest_block_height": "4339361",
+                    "sync_state": "sync_ok"
+                },
+                "new_value": null
+            },
+            {
+                "team": "Citizen Web3",
+                "service": null,
+                "field": "2",
+                "full_path": "namada.operator.Citizen Web3.networks.0.interface.9.settings.2",
+                "type": "removed",
+                "old_value": {
+                    "service": "rpc",
+                    "url": "https://rpc.namada-archive.citizenweb3.com",
+                    "status": "up",
+                    "version": "0.37.15",
+                    "is_up_to_date": true,
+                    "namada_version": "101.1.1",
+                    "latest_block_height": "4339367",
+                    "sync_state": "sync_ok"
+                },
+                "new_value": null
+            }
+        ]
     }
 ]
