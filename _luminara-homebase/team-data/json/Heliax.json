@@ -46828,5 +46828,19 @@
                 "new_value": "4365753"
             }
         ]
+    },
+    {
+        "timestamp": "2025-11-20T16:49:10.044846+00:00Z",
+        "changes": [
+            {
+                "team": "Heliax",
+                "service": "interface",
+                "field": "url",
+                "full_path": "namada.operator.Heliax.interface.url",
+                "type": "modified",
+                "old_value": "https://www.namadillo.app",
+                "new_value": "https://app.namada.net"
+            }
+        ]
     }
 ]
