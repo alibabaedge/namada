@@ -37564,5 +37564,19 @@
                 "new_value": "6.6.1"
             }
         ]
+    },
+    {
+        "timestamp": "2025-11-21T12:30:36.141197+00:00Z",
+        "changes": [
+            {
+                "team": "itrocket",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.itrocket.interface.version",
+                "type": "modified",
+                "old_value": "1.32.1-maint.1",
+                "new_value": "6.6.1"
+            }
+        ]
     }
 ]
