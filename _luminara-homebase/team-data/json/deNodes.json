@@ -56984,5 +56984,28 @@
                 "new_value": "4418082"
             }
         ]
+    },
+    {
+        "timestamp": "2025-11-24T22:15:32.984039+00:00Z",
+        "changes": [
+            {
+                "team": "deNodes",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.deNodes.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "deNodes",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.deNodes.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_ok"
+            }
+        ]
     }
 ]

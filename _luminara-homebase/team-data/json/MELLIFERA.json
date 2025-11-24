@@ -4183,5 +4183,28 @@
                 "new_value": "4418082"
             }
         ]
+    },
+    {
+        "timestamp": "2025-11-24T22:15:32.984039+00:00Z",
+        "changes": [
+            {
+                "team": "MELLIFERA",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.MELLIFERA.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.MELLIFERA.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_ok"
+            }
+        ]
     }
 ]
