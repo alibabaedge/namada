@@ -4142,5 +4142,46 @@
                 "new_value": "sync_lag"
             }
         ]
+    },
+    {
+        "timestamp": "2025-11-24T21:38:01.446713+00:00Z",
+        "changes": [
+            {
+                "team": "MELLIFERA",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.MELLIFERA.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_lag"
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.MELLIFERA.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "4417797",
+                "new_value": "4418081"
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.MELLIFERA.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_lag"
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "rpc",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.MELLIFERA.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "4417797",
+                "new_value": "4418082"
+            }
+        ]
     }
 ]
