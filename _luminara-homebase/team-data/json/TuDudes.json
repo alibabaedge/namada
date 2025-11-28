@@ -39478,5 +39478,19 @@
                 "new_value": "4461604"
             }
         ]
+    },
+    {
+        "timestamp": "2025-11-28T10:43:34.101714+00:00Z",
+        "changes": [
+            {
+                "team": "TuDudes",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.TuDudes.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_ok"
+            }
+        ]
     }
 ]
