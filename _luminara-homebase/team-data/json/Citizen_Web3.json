@@ -41770,5 +41770,19 @@
                 "new_value": "201.0.7"
             }
         ]
+    },
+    {
+        "timestamp": "2025-12-02T17:19:03.662748+00:00Z",
+        "changes": [
+            {
+                "team": "Citizen Web3",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.Citizen Web3.service.rpc.namada_version",
+                "type": "modified",
+                "old_value": "101.1.1",
+                "new_value": "201.0.7"
+            }
+        ]
     }
 ]
