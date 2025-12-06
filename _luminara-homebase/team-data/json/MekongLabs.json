@@ -47366,5 +47366,19 @@
                 "new_value": "4559272"
             }
         ]
+    },
+    {
+        "timestamp": "2025-12-06T11:13:07.122367+00:00Z",
+        "changes": [
+            {
+                "team": "MekongLabs",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.MekongLabs.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            }
+        ]
     }
 ]
